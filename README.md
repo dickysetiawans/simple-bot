@@ -15,4 +15,5 @@ If you want directly or without downloading this repo type the command below
 $ git clone https://github.com/dickysetiawans/simple-bot.git
 ```
 Make sure you have installed python and git
-Thnak you!1
+
+Thnak you!
