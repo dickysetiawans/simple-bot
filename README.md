@@ -1,6 +1,6 @@
 # Simple Bot
 
-[![Instagram](https://img.shields.io/badge/-python-green?style=flat&logo=python&logoColor=white)](https://www.instagram.com/dickysetiawans_/)
+[![Instagram](https://img.shields.io/badge/-python-000?style=flat&logo=python&logoColor=yellow)](https://www.instagram.com/dickysetiawans_/)
 
 This repo contains a simple bot, if you want to use, you have installed python first.
 simple bot only answers a few questions that you give everyday.
