@@ -1,8 +1,7 @@
-# contoh-zk
+# Simple Bot
 
-Repo ini adalah repo untuk mencontohkan penggunaan github sebagai media untuk menerapkan [Zettelkasten](https://en.wikipedia.org/wiki/Zettelkasten)
+This repo contains a simple bot, if you want to use, you have installed python first.
+simple bot only answers a few questions that you give everyday.
+yes I know even though it's new, but I will develop it again.
 
-Terdapat 3 contoh artikel pada repo ini:
-1. [Zettelkasten](https://github.com/rizaramadan/contoh-zk/blob/main/202005091446-Zettelkasten.md)
-2. [Belajar yang Efektif](https://github.com/rizaramadan/contoh-zk/blob/main/202005091455-Belajar-yang-efektif.md)
-3. [Tipe Pembelajaran](https://github.com/rizaramadan/contoh-zk/blob/main/202005091503-tipe-pembelajaran.md)
+If you want directly or without downloading this repo type the command below
