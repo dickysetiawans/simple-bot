@@ -1,7 +1,6 @@
 # Simple Bot
 
-![unmaintained](http://img.shields.io/badge/status-unmaintained-red.png)
-[![Python](https://www.python.org/ftp/python/3.9.5/python-3.9.5-amd64.exe)](https://www.python.org/ftp/python/3.9.5/python-3.9.5-amd64.exe)
+[![Instagram](https://img.shields.io/badge/-python-green?style=flat&logo=python&logoColor=white)](https://www.instagram.com/dickysetiawans_/)
 
 This repo contains a simple bot, if you want to use, you have installed python first.
 simple bot only answers a few questions that you give everyday.
