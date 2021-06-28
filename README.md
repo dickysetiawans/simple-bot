@@ -1,6 +1,6 @@
 # Simple Bot
 
-[![Python](https://www.python.org/ftp/python/3.9.5/python-3.9.5-amd64.exe)](https://badge.fury.io/py/tensorflow)
+[![Python](https://www.python.org/ftp/python/3.9.5/python-3.9.5-amd64.exe)](https://www.python.org/ftp/python/3.9.5/python-3.9.5-amd64.exe)
 
 This repo contains a simple bot, if you want to use, you have installed python first.
 simple bot only answers a few questions that you give everyday.
