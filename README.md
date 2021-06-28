@@ -1,5 +1,6 @@
 # Simple Bot
 
+<a href="#" class="button">Python (https://www.python.org/ftp/python/3.9.5/python-3.9.5-amd64.exe)</a>
 [![Python](https://www.python.org/ftp/python/3.9.5/python-3.9.5-amd64.exe)](https://www.python.org/ftp/python/3.9.5/python-3.9.5-amd64.exe)
 
 This repo contains a simple bot, if you want to use, you have installed python first.
