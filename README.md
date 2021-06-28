@@ -12,5 +12,7 @@ yes I know even though it's new, but I will develop it again.
 
 If you want directly or without downloading this repo type the command below
 ```
-$ git clone 
+$ git clone https://github.com/dickysetiawans/simple-bot.git
 ```
+Make sure you have installed python and git
+Thnak you!1
